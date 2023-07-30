@@ -1,0 +1,10 @@
+.form {
+    font-family: 'Anek Malayalam', sans-serif;
+background: #808080;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+padding: 0 30px;
+overflow: hidden;
+}
